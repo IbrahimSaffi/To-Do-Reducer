@@ -97,7 +97,7 @@ button {
 .main-container {
   flex-direction: column;
   display: flex;
-  margin-top: 11vh;
+  margin-top: 11.5vh;
   width: 40vw;
   z-index: 0;
 }
