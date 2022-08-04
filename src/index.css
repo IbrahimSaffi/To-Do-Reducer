@@ -14,11 +14,11 @@
   --border-color: hsl(237, 14%, 26%);
   --task-card-color: hsl(235, 24%, 19%);
   --back-pic: url(../public/images/bg-desktop-dark.jpg);
-  --theme-icon: url(../public/images/icon-sun.svg)
-  --text-decoration :none
+  --theme-icon: url(../public/images/icon-sun.svg);
+  --text-decoration :none;
 }
 .dark {
-  --theme-icon: url(../public/images/icon-sun.svg)
+  --theme-icon: url(../public/images/icon-sun.svg);
 }
 .light {
   --top-bg-color: hsl(235, 21%, 11%);
@@ -154,8 +154,7 @@ input {
 transition-duration: 0.5s;
 }
 .btn-wrapper:hover {
-  background:
-  linear-gradient(120deg, hsl(192, 100%, 67%), hsl(280, 87%, 65%));
+  background: linear-gradient(120deg, hsl(192, 100%, 67%), hsl(280, 87%, 65%));
   border: none;
 }
 .tasks-container {
